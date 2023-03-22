@@ -1,0 +1,77 @@
+
+#cor-login{
+
+    color: rgb(255, 255, 255) ; 
+
+}
+
+#cor-lembrar-senha{
+
+    color: rgb(255, 255, 255);
+}
+
+#tres{
+
+    position: absolute;
+    left: 1%;
+    top: 1%;
+    width: 100px;
+    height: 100px;
+
+}
+
+#logo{
+
+    max-width: 100vh;
+    max-height: 100px;
+    left: -1%;
+    top: 4%;
+    width: 20% auto;
+    height: 20% auto;
+    position: absolute
+
+}
+
+#bar{
+
+    display: flex !important ;
+    justify-content: center ;
+    background-image: url("./Imagens/backiee-fundo-pretojpg.jpg");
+    background-repeat: initial;
+    width: 135vh auto ;
+    height: 0vh ;
+    margin: 100px auto ;
+   
+}
+
+#inserir-mail{
+
+    margin: 30px auto;
+    background: rgb(255, 255, 255);
+    width: 300px;
+    display: flex !important;
+    justify-content: center;
+    border-radius: 1.1rem;
+    
+}
+
+#inserir-senha{
+
+    margin: 30px auto;
+    background: rgb(255, 255, 255);
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    border-radius: 1.1rem;
+
+}
+
+#botao-login{
+
+    margin: 30px auto;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    border-radius: 1.0rem;
+
+}
