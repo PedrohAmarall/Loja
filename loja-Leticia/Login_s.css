@@ -1,13 +1,15 @@
 
 #cor-login{
 
-    color: rgb(255, 255, 255) ; 
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
 
 }
 
 #cor-lembrar-senha{
 
     color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #tres{
@@ -23,7 +25,7 @@
 #logo{
 
     max-width: 100vh;
-    max-height: 100px;
+    max-height: 100%;
     left: -1%;
     top: 4%;
     width: 20% auto;
@@ -36,7 +38,7 @@
 
     display: flex !important ;
     justify-content: center ;
-    background-image: url("./Imagens/backiee-fundo-pretojpg.jpg");
+    background-image: url("./Imagens/Fundo-Azul.jpg");
     background-repeat: initial;
     width: 135vh auto ;
     height: 0vh ;
@@ -74,4 +76,17 @@
     justify-content: center;
     border-radius: 1.0rem;
 
+}
+
+#copy{
+
+    color: black !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#cadastro{
+
+    color: skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
